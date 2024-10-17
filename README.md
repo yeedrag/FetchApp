@@ -1,5 +1,5 @@
 # Fetch Monthly Receipt Predictor
-A Application where given the number of the observed scanned receipts each day for a year, it will give predictions of the receipts next year.
+An Application where given the number of the observed scanned receipts each day for a year, it will give predictions of the receipts next year.
 ## Getting Started
 - Clone the repository:
   ```
