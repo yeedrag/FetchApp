@@ -51,7 +51,7 @@ def main():
         '--model', 
         choices=['LSTM', 'MLP'], 
         required=True, 
-        default='LSTM',
+        default='MLP,
         help='Which model to use: LSTM or MLP'
     )
     parser.add_argument(
