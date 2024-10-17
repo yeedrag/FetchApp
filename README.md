@@ -40,7 +40,7 @@ In order to train the model, you can run the following command:
 ```
 python train.py data/data_daily.csv
 ```
-This will train a basic LSTM model with 30 hidden size and 100 epoch.
+This will train a basic MLP model with 30 hidden size and 100 epoch.
 
 There are three flags you can set in training, ```--model``` ```--hidden_size``` ```--epochs```:
 ```
